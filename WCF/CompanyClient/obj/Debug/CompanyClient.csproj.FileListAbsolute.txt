@@ -1,0 +1,9 @@
+D:\Study\WCF\CompanyClient\bin\CompanyClient.dll.config
+D:\Study\WCF\CompanyClient\bin\CompanyClient.dll
+D:\Study\WCF\CompanyClient\bin\CompanyClient.pdb
+D:\Study\WCF\CompanyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\WCF\CompanyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\WCF\CompanyClient\obj\Debug\CompanyClient.csprojResolveAssemblyReference.cache
+D:\Study\WCF\CompanyClient\obj\Debug\CompanyClient.csproj.CoreCompileInputs.cache
+D:\Study\WCF\CompanyClient\obj\Debug\CompanyClient.dll
+D:\Study\WCF\CompanyClient\obj\Debug\CompanyClient.pdb

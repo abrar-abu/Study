@@ -1,0 +1,10 @@
+D:\Study\WCF\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe.config
+D:\Study\WCF\CompanyServiceHost\bin\Debug\CompanyServiceHost.exe
+D:\Study\WCF\CompanyServiceHost\bin\Debug\CompanyServiceHost.pdb
+D:\Study\WCF\CompanyServiceHost\bin\Debug\CompanyService.dll
+D:\Study\WCF\CompanyServiceHost\bin\Debug\CompanyService.pdb
+D:\Study\WCF\CompanyServiceHost\bin\Debug\CompanyService.dll.config
+D:\Study\WCF\CompanyServiceHost\obj\Debug\CompanyServiceHost.csprojResolveAssemblyReference.cache
+D:\Study\WCF\CompanyServiceHost\obj\Debug\CompanyServiceHost.csproj.CoreCompileInputs.cache
+D:\Study\WCF\CompanyServiceHost\obj\Debug\CompanyServiceHost.exe
+D:\Study\WCF\CompanyServiceHost\obj\Debug\CompanyServiceHost.pdb

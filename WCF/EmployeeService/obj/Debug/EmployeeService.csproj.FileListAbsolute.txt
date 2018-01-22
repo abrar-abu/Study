@@ -1,0 +1,6 @@
+D:\Study\WCF\EmployeeService\bin\Debug\EmployeeService.dll.config
+D:\Study\WCF\EmployeeService\bin\Debug\EmployeeService.dll
+D:\Study\WCF\EmployeeService\bin\Debug\EmployeeService.pdb
+D:\Study\WCF\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+D:\Study\WCF\EmployeeService\obj\Debug\EmployeeService.dll
+D:\Study\WCF\EmployeeService\obj\Debug\EmployeeService.pdb

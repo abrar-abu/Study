@@ -1,0 +1,7 @@
+D:\Study\WCF\HelloService\bin\Debug\HelloService.dll.config
+D:\Study\WCF\HelloService\bin\Debug\HelloService.dll
+D:\Study\WCF\HelloService\bin\Debug\HelloService.pdb
+D:\Study\WCF\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
+D:\Study\WCF\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+D:\Study\WCF\HelloService\obj\Debug\HelloService.dll
+D:\Study\WCF\HelloService\obj\Debug\HelloService.pdb

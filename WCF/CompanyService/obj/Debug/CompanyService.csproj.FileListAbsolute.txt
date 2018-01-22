@@ -1,0 +1,7 @@
+D:\Study\WCF\CompanyService\bin\Debug\CompanyService.dll.config
+D:\Study\WCF\CompanyService\bin\Debug\CompanyService.dll
+D:\Study\WCF\CompanyService\bin\Debug\CompanyService.pdb
+D:\Study\WCF\CompanyService\obj\Debug\CompanyService.csprojResolveAssemblyReference.cache
+D:\Study\WCF\CompanyService\obj\Debug\CompanyService.csproj.CoreCompileInputs.cache
+D:\Study\WCF\CompanyService\obj\Debug\CompanyService.dll
+D:\Study\WCF\CompanyService\obj\Debug\CompanyService.pdb
