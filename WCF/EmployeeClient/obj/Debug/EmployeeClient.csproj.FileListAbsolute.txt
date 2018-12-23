@@ -1,8 +1,0 @@
-D:\Study\WCF\EmployeeClient\bin\EmployeeClient.dll.config
-D:\Study\WCF\EmployeeClient\bin\EmployeeClient.dll
-D:\Study\WCF\EmployeeClient\bin\EmployeeClient.pdb
-D:\Study\WCF\EmployeeClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Study\WCF\EmployeeClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Study\WCF\EmployeeClient\obj\Debug\EmployeeClient.csproj.CoreCompileInputs.cache
-D:\Study\WCF\EmployeeClient\obj\Debug\EmployeeClient.dll
-D:\Study\WCF\EmployeeClient\obj\Debug\EmployeeClient.pdb
