@@ -1,0 +1,16 @@
+
+<div class="well">
+  <form class="form-inline">
+    <div class="form-group">
+      <label for="exampleInputName2"> Content </label>&nbsp;&nbsp;&nbsp;
+      <input type="text" class="form-control" placeholder="Child contenet" name="childtext"  [(ngModel)]="childtext" >
+    </div>
+    &nbsp;&nbsp;&nbsp;
+    <button type="submit" class="btn btn-default" (click)="SendEvent()" >Send</button>
+  </form>
+</div>
+
+<!--
+<input type="text" class="form-control" placeholder="Child contenet" [(ngModel)]="childtext" >
+<button type="submit" class="btn btn-default" (click)="SendEvent()" >Send</button>
+-->
