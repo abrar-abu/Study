@@ -1,0 +1,105 @@
+<div class="container">
+    <h1 style="text-align:center"> Employee Review Detail</h1>
+    {{getData|json}}
+    <form>
+        <label>Employee Name*</label>
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <input type="text" class="form-control" name="firstName" placeholder="First Name" #name="ngModel"
+                    [(ngModel)]="getData.firstName" disabled>
+            </div>
+            <div class="form-group col-md-6">
+                <input type="text" class="form-control" name="lastName" placeholder="Last Name" #name="ngModel"
+                    [(ngModel)]="getData.lastName" disabled>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label>Employee's Hire Date</label>
+                <input type="text" class="form-control" placeholder="First Name" disabled>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="input-group mb-3">
+                Employee's Title*
+            </div>
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" name="title" placeholder="Employee Title" #name="ngModel"
+                    [(ngModel)]="getData.title" disabled>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form group col-md-12">
+                <label>Employee's Department</label>
+                <select class="form-control" name="department" #name="ngModel" [(ngModel)]="getData.department"
+                    disabled>
+                    <option></option>
+                    <option>Marketing</option>
+                    <option>Sales</option>
+                    <option>HR</option>
+                    <option>Development</option>
+                </select>
+            </div>
+        </div>
+        <br>
+        <div class="form-row">
+            <div class="form group col-md-12">
+                <label>Overall I would rank this employee performance as </label><br>
+                <!-- Default inline 1-->
+                <div class="custom-control custom-radio custom-control-inline">
+                    <input type="radio" class="custom-control-input" name="performance" value="Very Good" #name="ngModel"
+                        [(ngModel)]="getData.performance" disabled>
+                    <label class="custom-control-label">Very Good</label>
+                </div>
+
+                <!-- Default inline 2-->
+                <div class="custom-control custom-radio custom-control-inline">
+                    <input type="radio" class="custom-control-input" name="performance" value="Good" #name="ngModel"
+                        [(ngModel)]="getData.performance" disabled>
+                    <label class="custom-control-label" for="defaultInline2">Good</label>
+                </div>
+
+                <!-- Default inline 3-->
+                <div class="custom-control custom-radio custom-control-inline">
+                    <input type="radio" class="custom-control-input" name="performance" value="Fair" #name="ngModel"
+                        [(ngModel)]="getData.performance" disabled>
+                    <label class="custom-control-label" for="defaultInline3">Fair</label>
+                </div>
+
+                <!-- Default inline 4-->
+                <div class="custom-control custom-radio custom-control-inline">
+                    <input type="radio" class="custom-control-input" name="performance" value="Poor" #name="ngModel"
+                        [(ngModel)]="getData.performance" disabled>
+                    <label class="custom-control-label">Poor</label>
+                </div>
+
+                <!-- Default inline 3-->
+                <div class="custom-control custom-radio custom-control-inline">
+                    <input type="radio" class="custom-control-input" name="performance" value="Very Poor" #name="ngModel"
+                        [(ngModel)]="getData.performance" disabled>
+                    <label class="custom-control-label">Very Poor</label>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="form-row">
+            <div class="col-md-12">
+                <label>Please go into more details why you choose this ranking </label>
+                <textarea class="form-control" rows="3" name="details" #name="ngModel" [(ngModel)]="getData.details"
+                    disabled></textarea>
+            </div>
+        </div>
+        <br>
+        <label>Supervisor Name</label>
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <input type="text" class="form-control" name="sFirstName" placeholder="First Name" #name="ngModel"
+                    [(ngModel)]="getData.sFirstName" disabled>
+            </div>
+            <div class="form-group col-md-6">
+                <input type="text" class="form-control" name="sLastName" placeholder="Last Name" #name="ngModel"
+                    [(ngModel)]="getData.sLastName" disabled>
+            </div>
+        </div>
+    </form>
+</div>
